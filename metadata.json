@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: shop-onwer-pwa-app",
+  "description": "Imported from GitHub: barbarhub8-svg/shop-onwer-pwa-app",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
